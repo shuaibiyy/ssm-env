@@ -16,7 +16,7 @@ assuming the value of `/com/team/svc` in AWS Parameter Store is `foo`.
 
 ## Installation
 
-Download a binary from the [releases page](https://gitlab.com/shuaibiyy/ssm-env/releases).
+Download a binary from the [releases page](https://github.com/shuaibiyy/ssm-env/releases).
 
 ## Usage
 ```
